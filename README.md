@@ -1,5 +1,22 @@
 # The Kubernetes documentation
 
+## T-Summit - Aaruush | Project 
+
+   | [Project Work](https://github.com/sahaj169/envision-temp) | [Team Name](https://github.com/sahaj169/envision-temp) | 
+| :------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------: | 
+|                    **Home Page**                    |                        **Samaresh & Sanskar**                       | | 
+|                    **Editions 1, 2**                    |                        **Praveen**                       |
+|                    **Footer/nav**                    |                        **Rajya vardhan**                       |
+|                    **FAQs**                    |                        **Sanjeeban**                       |
+|                    **Submission**                    |                        **Mayank**                       |
+|                    **Event / Single event page**                    |                        **Vikash**                       |
+|                    **Process and Leadboard**                    |                        **Tauqeer Ali**                       |
+|                    **Colleges with us and its individual page**                    |                        **Divyanshu**                       |
+|                    **Login/Sign Up, Contact Us, Feedback**                    |                        **Rishit**                       |
+
+
+
+
 [![Netlify Status](https://api.netlify.com/api/v1/badges/be93b718-a6df-402a-b4a4-855ba186c97d/deploy-status)](https://app.netlify.com/sites/kubernetes-io-master-staging/deploys) [![GitHub release](https://img.shields.io/github/release/kubernetes/website.svg)](https://github.com/kubernetes/website/releases/latest)
 
 This repository contains the assets required to build the [Kubernetes website and documentation](https://kubernetes.io/). We're glad that you want to contribute!
